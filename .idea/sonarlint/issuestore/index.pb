@@ -23,3 +23,9 @@ kdepartment-service/src/main/java/com/dailycodebuffer/departmentservice/reposito
 eemployee-service/src/main/java/com/dailycodebuffer/employeeservice/controller/EmployeeController.java,0/a/0a61863094d9364ebb13085c52dbd845d919e3eb
 •
 eemployee-service/src/main/java/com/dailycodebuffer/employeeservice/repository/EmployeeRepository.java,0/2/026cab921082a52ea3c7ff18b4bee1771ce60ccb
+†
+Vemployee-service/src/main/java/com/dailycodebuffer/employeeservice/model/Employee.java,6/d/6d26a547b896af7b31268c8fc64b30a9d4e95627
+‘
+adepartment-service/src/main/java/com/dailycodebuffer/departmentservice/client/EmployeeClient.java,8/c/8c184b44e154ddd2fc054ecfd5a7090eb1ba5467
+’
+bdepartment-service/src/main/java/com/dailycodebuffer/departmentservice/config/WebClientConfig.java,8/1/8162d5e0957ec9b434c255f37d4a29125c6ccfaa
