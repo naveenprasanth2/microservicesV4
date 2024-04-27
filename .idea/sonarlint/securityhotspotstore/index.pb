@@ -19,3 +19,7 @@ Zdepartment-service/src/main/java/com/dailycodebuffer/departmentservice/model/Em
 kdepartment-service/src/main/java/com/dailycodebuffer/departmentservice/controller/DepartmentController.java,9/c/9ce4bb78dacb824411b98ea52bfe5bb32347a0ed
 ›
 kdepartment-service/src/main/java/com/dailycodebuffer/departmentservice/repository/DepartmentRepository.java,e/7/e7ec496014ef9249433bae245dff54a3664ee085
+•
+eemployee-service/src/main/java/com/dailycodebuffer/employeeservice/controller/EmployeeController.java,0/a/0a61863094d9364ebb13085c52dbd845d919e3eb
+•
+eemployee-service/src/main/java/com/dailycodebuffer/employeeservice/repository/EmployeeRepository.java,0/2/026cab921082a52ea3c7ff18b4bee1771ce60ccb
