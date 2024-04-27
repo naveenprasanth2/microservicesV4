@@ -29,3 +29,5 @@ Vemployee-service/src/main/java/com/dailycodebuffer/employeeservice/model/Employ
 adepartment-service/src/main/java/com/dailycodebuffer/departmentservice/client/EmployeeClient.java,8/c/8c184b44e154ddd2fc054ecfd5a7090eb1ba5467
 ’
 bdepartment-service/src/main/java/com/dailycodebuffer/departmentservice/config/WebClientConfig.java,8/1/8162d5e0957ec9b434c255f37d4a29125c6ccfaa
+ƒ
+Sapi-gateway/src/main/java/com/dailycodebuffer/apigateway/ApiGatewayApplication.java,d/5/d5ab1fcbf6e82d07931ff512ad630082aba65719

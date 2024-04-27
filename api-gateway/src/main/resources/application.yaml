@@ -9,10 +9,10 @@ spring:
       mvc:
         routes:
           - id: employee-service
-            uri: lb:/employee-service
+            uri: lb://employee-service
             predicates:
-              - Path=employee/**
+              - Path=/employee/**
           - id: department-service
-            uri: lb:/department-service
+            uri: lb://department-service
             predicates:
-              - Path=department/**
+              - Path=/department/**
